@@ -1,0 +1,22 @@
+{
+  "name": "express-online-shop",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A store management system for a store called \"Vanilla Optics\" that manages the end-to-end customer purchasing processes - from the moment of entering the store, shopping cart management and payment. The system can handle the customer database. All database files are in JSON format and the project is written in Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch --env-file=.env app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shlomofeit/express-online-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shlomofeit/express-online-shop/issues"
+  },
+  "homepage": "https://github.com/shlomofeit/express-online-shop#readme"
+}
